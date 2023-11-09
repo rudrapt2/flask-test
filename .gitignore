@@ -1,0 +1,4 @@
+Client/app/node_modules
+Server/env/Lib
+Server/env/Scripts
+Server/env/pyvenv.cfg
